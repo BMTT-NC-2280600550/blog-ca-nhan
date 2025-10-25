@@ -1,4 +1,4 @@
-baseURL = 'https://yourdomain.com/'         # Đổi thành tên miền thật nếu có
+baseURL = "https://blogcuadai.netlify.app"     
 languageCode = 'vi-vn'
 title = 'Blog của Đại'
 theme = 'PaperMod'
