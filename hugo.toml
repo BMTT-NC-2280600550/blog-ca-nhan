@@ -1,0 +1,49 @@
+baseURL = 'https://yourdomain.com/'         # Đổi thành tên miền thật nếu có
+languageCode = 'vi-vn'
+title = 'Blog của Đại'
+theme = 'PaperMod'
+
+
+# ✅ Cho phép HTML thô trong Markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# 🎨 Cấu hình giao diện và tính năng
+[params]
+  defaultTheme = "auto"               # Tự động chuyển sáng/tối theo hệ thống
+  disableThemeToggle = false          # Cho phép người dùng chuyển chế độ
+  ShowReadingTime = true              # Hiển thị thời gian đọc
+  ShowShareButtons = true             # Nút chia sẻ bài viết
+  ShowPostNavLinks = true             # Liên kết điều hướng bài viết
+  ShowBreadCrumbs = true              # Hiển thị đường dẫn breadcrumb
+  ShowCodeCopyButtons = true          # Nút copy mã nguồn
+  ShowWordCount = true                # Hiển thị số từ
+  comments = false                    # Tắt bình luận
+  ShowToc = false                     # ❌ Tắt mục lục tự động
+  TocOpen = false                     # ❌ Không mở mục lục
+
+# 📁 Kết nối file CSS tùy chỉnh (hiệu ứng mượt, chuyên nghiệp)
+[params.assets]
+  customCSS = ["css/custom.css"]
+
+# 🧭 Menu điều hướng chính
+[menu]
+  [[menu.main]]
+    name = "Trang chủ"
+    url = "/home/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Giới thiệu"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tài liệu & kỹ năng"
+    url = "/skills/"
+    weight = 3
+
+# ⚠️ Ẩn cảnh báo HTML thô nếu cần
+ignoreLogs = ['warning-goldmark-raw-html']

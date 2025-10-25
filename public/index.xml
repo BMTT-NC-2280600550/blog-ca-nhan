@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog của Đại</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Blog của Đại</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>vi-vn</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giới thiệu bản thân</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;style&gt;
+  .about-wrapper {
+    max-width: 880px;
+    margin: 60px auto;
+    padding: 40px 30px;
+    animation: fadeIn 1s ease forwards;
+    opacity: 0;
+  }
+
+  @keyframes fadeIn {
+    to { opacity: 1; }
+  }
+
+  .profile-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 40px;
+  }
+
+  .profile-header img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+  }
+
+  .profile-header img:hover {
+    transform: scale(1.05);
+  }
+
+  .profile-info {
+    max-width: 500px;
+  }
+
+  .profile-info h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+
+  .profile-info p {
+    font-size: 1.15em;
+    line-height: 1.8;
+    text-align: justify;
+  }
+
+  .section-title {
+    font-size: 1.5em;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .cert-gallery {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: 10px;
+    scroll-snap-type: x mandatory;
+  }
+
+  .cert-card {
+    flex: 0 0 auto;
+    width: 160px;
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    text-align: center;
+    scroll-snap-align: center;
+    animation: slideUp 0.8s ease forwards;
+    opacity: 0;
+  }
+
+  .cert-card img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    transition: transform 0.4s ease;
+  }
+
+  .cert-card h3 {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text);
+    transition: transform 0.4s ease;
+  }
+
+  .cert-card:hover {
+    transform: translateY(-8px) scale(1.05);
+    box-shadow: 0 12px 24px rgba(0,0,0,0.2);
+  }
+
+  .cert-card:hover img {
+    transform: scale(1.08);
+  }
+
+  .cert-card:hover h3 {
+    transform: translateY(-2px);
+  }
+
+  @keyframes slideUp {
+    0% {
+      transform: translateY(30px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
+  /* Dark mode hỗ trợ */
+  :root {
+    --card-bg: #f7f7f7;
+    --text: #111;
+  }
+
+  [data-theme=&#34;dark&#34;] {
+    --card-bg: #1f1f1f;
+    --text: #eee;
+  }
+&lt;/style&gt;
+
+&lt;div class=&#34;about-wrapper&#34;&gt;
+  &lt;!-- Giới thiệu bản thân --&gt;
+  &lt;div class=&#34;profile-header&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/Dai.jpg&#34; alt=&#34;Ảnh đại diện Trần Quốc Đại&#34; /&gt;
+    &lt;div class=&#34;profile-info&#34;&gt;
+      &lt;h2&gt;👨‍💻 Trần Quốc Đại&lt;/h2&gt;
+      &lt;p&gt;
+        Xin chào! Mình là sinh viên ngành &lt;strong&gt;Công nghệ Thông tin&lt;/strong&gt; tại &lt;strong&gt;Đại học HUTECH&lt;/strong&gt;, với niềm đam mê đặc biệt dành cho &lt;strong&gt;lập trình mạng máy tính&lt;/strong&gt; và các công nghệ hệ thống.&lt;br&gt;&lt;br&gt;
+        Blog này là nơi mình chia sẻ kiến thức, tài liệu học tập, và kỹ năng thực hành nhằm hỗ trợ cộng đồng sinh viên và những người yêu thích công nghệ phát triển tư duy và kỹ năng chuyên môn.
+      &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tài liệu &amp; kỹ năng</title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description>&lt;section class=&#34;hero fade-in&#34;&gt;
+  &lt;h1&gt;📘 Tài liệu &amp; Kỹ năng Mạng Máy Tính&lt;/h1&gt;
+  &lt;p&gt;Trang học tập dành cho người muốn làm chủ kiến thức mạng từ lý thuyết đến thực hành.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section class=&#34;section fade-in&#34;&gt;
+  &lt;h2&gt;📚 Tài liệu học tập&lt;/h2&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;Giáo trình mạng máy tính:&lt;/strong&gt; Tài liệu lý thuyết + bài tập thực hành.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Cấu hình IP, DHCP, NAT:&lt;/strong&gt; Áp dụng trên thiết bị thật và mô phỏng.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Mô phỏng mạng bằng Cisco Packet Tracer:&lt;/strong&gt; Thiết kế, kiểm thử và phân tích mạng.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+&lt;section class=&#34;section fade-in&#34;&gt;
+  &lt;h2&gt;🧠 Kỹ năng cần thiết&lt;/h2&gt;
+  &lt;div class=&#34;skills-grid&#34;&gt;
+    &lt;div&gt;✅ Hiểu mô hình OSI và TCP/IP&lt;/div&gt;
+    &lt;div&gt;✅ Cấu hình thiết bị mạng cơ bản&lt;/div&gt;
+    &lt;div&gt;✅ Viết chương trình socket TCP/UDP bằng Python hoặc C&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;section class=&#34;section fade-in&#34;&gt;
+  &lt;h2&gt;🧪 Kiểm tra kiến thức&lt;/h2&gt;
+  &lt;button id=&#34;startTestBtn&#34;&gt;📖 Bắt đầu kiểm tra&lt;/button&gt;
+  &lt;div id=&#34;quiz&#34; class=&#34;fade&#34; style=&#34;display:none;&#34;&gt;&lt;/div&gt;
+  &lt;div id=&#34;result&#34; style=&#34;display:none;&#34;&gt;&lt;/div&gt;
+&lt;/section&gt;
+&lt;style&gt;
+body {
+  font-family: &#39;Inter&#39;, &#39;Open Sans&#39;, sans-serif;
+  margin: 0;
+}
+
+.hero {
+  text-align: center;
+  padding: 3rem 1rem 2.5rem;
+  border-bottom: 1px solid var(--border-color, rgba(0,0,0,0.1));
+}
+.hero h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.hero p {
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+  opacity: 0.9;
+}
+
+.section {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem;
+  border-radius: 12px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.section:hover {
+  transform: translateY(-3px);
+}
+.section h2 {
+  font-size: 1.7rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid var(--accent-color, #0078d7);
+  padding-left: 10px;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+}
+.skills-grid div {
+  padding: 1rem;
+  border-radius: 10px;
+  border: 1px solid var(--border-color, rgba(0,0,0,0.1));
+  text-align: center;
+  transition: all 0.3s ease;
+}
+.skills-grid div:hover {
+  transform: scale(1.02);
+}
+
+#quiz div {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  border: 1px solid var(--border-color, rgba(0,0,0,0.1));
+}
+#quiz h4 {
+  margin-top: 0;
+  font-size: 1.1rem;
+}
+#quiz button, #startTestBtn {
+  margin-top: 1rem;
+  padding: 0.7rem 1.4rem;
+  background: var(--accent-color, #0078d7);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+#quiz button:hover, #startTestBtn:hover {
+  opacity: 0.9;
+  transform: translateY(-2px);
+}
+#result {
+  padding: 1rem;
+  margin-top: 2rem;
+  border-radius: 10px;
+  border: 1px solid var(--border-color, rgba(0,0,0,0.1));
+}
+
+.fade {
+  opacity: 0;
+  transition: opacity 0.8s ease-in-out;
+}
+.fade.show {
+  opacity: 1;
+}
+.fade-in {
+  opacity: 0;
+  animation: fadeInUp 0.8s ease forwards;
+}
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+&lt;/style&gt;
+&lt;script&gt;
+const quizData = [
+  { question: &#34;Mô hình OSI có bao nhiêu tầng?&#34;, options: [&#34;6&#34;, &#34;8&#34;, &#34;7&#34;, &#34;5&#34;], answer: 2, explanation: &#34;Mô hình OSI gồm 7 tầng.&#34;, topic: &#34;OSI&#34; },
+  { question: &#34;Giao thức nào hoạt động ở tầng Transport?&#34;, options: [&#34;Ethernet&#34;, &#34;TCP&#34;, &#34;HTTP&#34;, &#34;IP&#34;], answer: 1, explanation: &#34;TCP là tầng Transport.&#34;, topic: &#34;TCP/IP&#34; },
+  { question: &#34;Lệnh kiểm tra kết nối mạng trong Windows?&#34;, options: [&#34;netstat&#34;, &#34;ipconfig&#34;, &#34;ping&#34;, &#34;tracert&#34;], answer: 2, explanation: &#34;Lệnh ping kiểm tra kết nối.&#34;, topic: &#34;Thực hành mạng&#34; },
+  { question: &#34;Cisco Packet Tracer dùng để làm gì?&#34;, options: [&#34;Mô phỏng mạng&#34;, &#34;Thiết kế website&#34;, &#34;Lập trình Python&#34;, &#34;Quản lý dữ liệu&#34;], answer: 0, explanation: &#34;Packet Tracer dùng để mô phỏng mạng.&#34;, topic: &#34;Thực hành mạng&#34; },
+  { question: &#34;Hàm tạo socket trong Python?&#34;, options: [&#34;socket()&#34;, &#34;bind()&#34;, &#34;listen()&#34;, &#34;connect()&#34;], answer: 0, explanation: &#34;Hàm socket() tạo socket mới.&#34;, topic: &#34;Lập trình socket&#34; }
+];
+
+document.getElementById(&#34;startTestBtn&#34;).addEventListener(&#34;click&#34;, () =&gt; {
+  const quizContainer = document.getElementById(&#34;quiz&#34;);
+  quizContainer.style.display = &#34;block&#34;;
+  setTimeout(() =&gt; quizContainer.classList.add(&#34;show&#34;), 50);
+  renderQuiz();
+});
+
+function renderQuiz() {
+  const container = document.getElementById(&#34;quiz&#34;);
+  container.innerHTML = &#34;&#34;;
+  quizData.forEach((q, index) =&gt; {
+    const block = document.createElement(&#34;div&#34;);
+    block.innerHTML = `
+      &lt;h4&gt;Câu ${index + 1}: ${q.question}&lt;/h4&gt;
+      ${q.options.map((opt, i) =&gt; `
+        &lt;label&gt;&lt;input type=&#34;radio&#34; name=&#34;q${index}&#34; value=&#34;${i}&#34;&gt; ${opt}&lt;/label&gt;&lt;br/&gt;
+      `).join(&#34;&#34;)}
+    `;
+    container.appendChild(block);
+  });
+
+  const submitBtn = document.createElement(&#34;button&#34;);
+  submitBtn.textContent = &#34;📊 Xem kết quả&#34;;
+  submitBtn.onclick = showResult;
+  container.appendChild(submitBtn);
+}
+
+function showResult() {
+  const result = document.getElementById(&#34;result&#34;);
+  result.innerHTML = &#34;&#34;;
+  result.style.display = &#34;block&#34;;
+
+  let wrongTopics = {};
+  let correctCount = 0;
+
+  quizData.forEach((q, index) =&gt; {
+    const selected = document.querySelector(`input[name=&#34;q${index}&#34;]:checked`);
+    const userAnswer = selected ? parseInt(selected.value) : null;
+    const isCorrect = userAnswer === q.answer;
+
+    if (isCorrect) correctCount++;
+    else {
+      if (!wrongTopics[q.topic]) wrongTopics[q.topic] = 0;
+      wrongTopics[q.topic]++;
+    }
+  });
+
+  result.innerHTML += `&lt;h3&gt;✅ Bạn đúng ${correctCount}/${quizData.length} câu&lt;/h3&gt;`;
+  if (correctCount === quizData.length) {
+    result.innerHTML += `&lt;p&gt;🎉 Tuyệt vời! Bạn đã nắm vững toàn bộ kiến thức.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trang chủ</title>
+      <link>http://localhost:1313/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/</guid>
+      <description>&lt;style&gt;
+
+
+  .hero {
+    width: 100%;
+    height: 320px;
+    background-image: url(&#39;/images/anhlaptrinh.jpg&#39;);
+    background-size: cover;
+    background-position: center;
+    box-shadow: inset 0 0 60px rgba(0,0,0,0.2);
+  }
+
+  .home-container {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 60px 30px;
+    text-align: center;
+    animation: fadeIn 1.2s ease forwards;
+    opacity: 0;
+  }
+
+  @keyframes fadeIn {
+    to { opacity: 1; }
+  }
+
+
+  .nav-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+  }
+
+  .nav-buttons a {
+    display: inline-block;
+    padding: 14px 28px;
+    font-size: 1.05em;
+    color: #fff;
+    background: linear-gradient(135deg, #0d1316ff, #00c6ff);
+    border: none;
+    border-radius: 8px;
+    text-decoration: none;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .nav-buttons a:hover {
+    transform: scale(1.07);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+  }
+
+  .footer-note {
+    margin-top: 50px;
+    font-size: 1em;
+    color: #666;
+  }
+&lt;/style&gt;
+&lt;div class=&#34;hero&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;home-container&#34;&gt;
+  &lt;h1&gt;💻 Blog Lập Trình Mạng Máy Tính&lt;/h1&gt;
+  &lt;p&gt;
+    Mình là &lt;strong&gt;Trần Quốc Đại&lt;/strong&gt; – sinh viên trường Đại học HUTECH.&lt;br&gt;
+    Mình yêu thích môn Lập Trình Mạng Máy Tính và tạo blog này để chia sẻ tài liệu học tập, kỹ năng thực hành và kinh nghiệm cá nhân đến mọi người.
+  &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
