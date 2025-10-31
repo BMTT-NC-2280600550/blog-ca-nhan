@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Blog của Đại</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Blog của Đại</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Fri, 31 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cấu hình firewall và bảo mật mạng</title>
+      <link>http://localhost:1313/posts/firewall-va-an-toan/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/firewall-va-an-toan/</guid>
+      <description>&lt;p&gt;Bảo mật mạng là yếu tố quan trọng trong lập trình mạng. Bài viết này hướng dẫn cách cấu hình firewall cơ bản trên Linux, sử dụng &lt;code&gt;iptables&lt;/code&gt; và &lt;code&gt;ufw&lt;/code&gt;, đồng thời chia sẻ các nguyên tắc bảo mật khi triển khai ứng dụng mạng.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hiểu rõ HTTP Request &amp; Response</title>
+      <link>http://localhost:1313/posts/http-request-response/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/http-request-response/</guid>
+      <description>&lt;p&gt;HTTP là giao thức nền tảng của web. Bài viết này sẽ giúp bạn hiểu cách hoạt động của HTTP request và response, các loại phương thức như GET, POST, PUT, DELETE và cách phân tích chúng bằng công cụ như Postman hoặc Wireshark.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lập trình socket với Python</title>
+      <link>http://localhost:1313/posts/socket-programming/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/socket-programming/</guid>
+      <description>&lt;p&gt;Trong bài viết này, chúng ta sẽ tìm hiểu cách sử dụng thư viện &lt;code&gt;socket&lt;/code&gt; trong Python để tạo một ứng dụng client-server đơn giản. Socket là giao diện lập trình mạng cấp thấp giúp bạn giao tiếp qua TCP hoặc UDP.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nội dung chính:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tạo socket TCP&lt;/li&gt;
+&lt;li&gt;Gửi và nhận dữ liệu&lt;/li&gt;
+&lt;li&gt;Xử lý kết nối nhiều client&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>So sánh TCP và UDP trong lập trình mạng</title>
+      <link>http://localhost:1313/posts/tcp-udp/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tcp-udp/</guid>
+      <description>&lt;p&gt;TCP và UDP là hai giao thức phổ biến trong tầng transport. Bài viết này sẽ phân tích sự khác biệt giữa chúng, khi nào nên dùng TCP, khi nào nên dùng UDP, và cách triển khai chúng trong các ứng dụng thực tế.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

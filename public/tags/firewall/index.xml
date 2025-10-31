@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Firewall on Blog của Đại</title>
+    <link>http://localhost:1313/tags/firewall/</link>
+    <description>Recent content in Firewall on Blog của Đại</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Fri, 31 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/firewall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cấu hình firewall và bảo mật mạng</title>
+      <link>http://localhost:1313/posts/firewall-va-an-toan/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/firewall-va-an-toan/</guid>
+      <description>&lt;p&gt;Bảo mật mạng là yếu tố quan trọng trong lập trình mạng. Bài viết này hướng dẫn cách cấu hình firewall cơ bản trên Linux, sử dụng &lt;code&gt;iptables&lt;/code&gt; và &lt;code&gt;ufw&lt;/code&gt;, đồng thời chia sẻ các nguyên tắc bảo mật khi triển khai ứng dụng mạng.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

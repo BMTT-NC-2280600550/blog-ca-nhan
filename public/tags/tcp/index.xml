@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tcp on Blog của Đại</title>
+    <link>http://localhost:1313/tags/tcp/</link>
+    <description>Recent content in Tcp on Blog của Đại</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Fri, 31 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tcp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>So sánh TCP và UDP trong lập trình mạng</title>
+      <link>http://localhost:1313/posts/tcp-udp/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tcp-udp/</guid>
+      <description>&lt;p&gt;TCP và UDP là hai giao thức phổ biến trong tầng transport. Bài viết này sẽ phân tích sự khác biệt giữa chúng, khi nào nên dùng TCP, khi nào nên dùng UDP, và cách triển khai chúng trong các ứng dụng thực tế.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

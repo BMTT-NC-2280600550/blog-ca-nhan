@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Socket on Blog của Đại</title>
+    <link>http://localhost:1313/tags/socket/</link>
+    <description>Recent content in Socket on Blog của Đại</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Fri, 31 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/socket/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lập trình socket với Python</title>
+      <link>http://localhost:1313/posts/socket-programming/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/socket-programming/</guid>
+      <description>&lt;p&gt;Trong bài viết này, chúng ta sẽ tìm hiểu cách sử dụng thư viện &lt;code&gt;socket&lt;/code&gt; trong Python để tạo một ứng dụng client-server đơn giản. Socket là giao diện lập trình mạng cấp thấp giúp bạn giao tiếp qua TCP hoặc UDP.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nội dung chính:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tạo socket TCP&lt;/li&gt;
+&lt;li&gt;Gửi và nhận dữ liệu&lt;/li&gt;
+&lt;li&gt;Xử lý kết nối nhiều client&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
