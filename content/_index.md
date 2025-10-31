@@ -122,7 +122,7 @@ markup: html
     </p>
 
     <div class="intro-buttons">
-      <a href="http://localhost:1313/home/" class="btn">🏡 Vào trang chủ</a>
+      <a href="https://blogcuadai.netlify.app/home/" class="btn">🏡 Vào trang chủ</a>
     </div>
   </div>
 </section>
