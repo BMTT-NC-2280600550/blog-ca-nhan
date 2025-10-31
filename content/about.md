@@ -145,13 +145,13 @@ markup: html
     <div class="profile-info">
       <h2>👨‍💻 Trần Quốc Đại</h2>
       <p>
-        Xin chào! Mình là sinh viên ngành <strong>Công nghệ Thông tin</strong> tại <strong>Đại học HUTECH</strong>, với niềm đam mê đặc biệt dành cho <strong>lập trình mạng máy tính</strong> và các công nghệ hệ thống.<br><br>
-        Blog này là nơi mình chia sẻ kiến thức, tài liệu học tập, và kỹ năng thực hành nhằm hỗ trợ cộng đồng sinh viên và những người yêu thích công nghệ phát triển tư duy và kỹ năng chuyên môn.<br><br>
-        Từ khi bắt đầu học lập trình, mình đặc biệt yêu thích các lĩnh vực liên quan đến <strong>mạng máy tính</strong>, <strong>an toàn thông tin</strong> và <strong>hệ thống phân tán</strong>. Mình đã thực hiện nhiều dự án nhỏ như xây dựng ứng dụng chat qua socket, mô phỏng giao thức TCP, và triển khai hệ thống giám sát mạng nội bộ.<br><br>
-        Ngoài giờ học, mình thường dành thời gian để tìm hiểu thêm về <strong>Linux server</strong>, <strong>Docker</strong>, và các công nghệ backend như <strong>Node.js</strong> và <strong>Python</strong>. Mình cũng đang học thêm về <strong>cloud computing</strong> để chuẩn bị cho các chứng chỉ như <strong>AWS Certified Cloud Practitioner</strong>.<br><br>
-        Mục tiêu của mình là trở thành một <strong>Kỹ sư hệ thống mạng</strong> hoặc <strong>DevOps Engineer</strong> trong tương lai, có thể thiết kế và vận hành các hệ thống mạng hiệu quả, bảo mật và có khả năng mở rộng cao.<br><br>
-        Blog này không chỉ là nơi lưu giữ hành trình học tập của mình, mà còn là nơi mình mong muốn kết nối với những người có cùng đam mê để cùng nhau phát triển.
-      </p>
+  Xin chào! Mình là sinh viên năm 3 chuyên ngành <strong>Công nghệ Phần mềm</strong> tại <strong>Đại học HUTECH</strong>, với niềm đam mê đặc biệt dành cho <strong>lập trình mạng máy tính</strong> và các công nghệ hệ thống.<br><br>
+  Blog này là nơi mình chia sẻ kiến thức, tài liệu học tập, và kỹ năng thực hành nhằm hỗ trợ cộng đồng sinh viên và những người yêu thích công nghệ phát triển tư duy và kỹ năng chuyên môn.<br><br>
+  Từ khi bắt đầu học lập trình, mình đặc biệt yêu thích các lĩnh vực liên quan đến <strong>mạng máy tính</strong>, <strong>an toàn thông tin</strong> và <strong>hệ thống phân tán</strong>. Mình đã thực hiện một số dự án nhỏ như xây dựng ứng dụng chat qua socket, mô phỏng giao thức TCP, và triển khai hệ thống giám sát mạng nội bộ.<br><br>
+  Ngoài giờ học, mình thường dành thời gian để tìm hiểu thêm về <strong>Linux server</strong>, <strong>Docker</strong>, và các công nghệ backend như <strong>Node.js</strong> và <strong>Python</strong>. Mình cũng đang học thêm về <strong>cloud computing</strong> để chuẩn bị cho các chứng chỉ như <strong>AWS Certified Cloud Practitioner</strong>.<br><br>
+  Mục tiêu hiện tại của mình là tích lũy thêm kinh nghiệm thực tế và kiến thức chuyên sâu để sau này có thể trở thành một <strong>Kỹ sư hệ thống mạng</strong> hoặc <strong>DevOps Engineer</strong>. Mình vẫn đang trong quá trình học hỏi và khám phá, nên mọi thứ vẫn còn rất mới mẻ và thú vị.<br><br>
+  Blog này không chỉ là nơi lưu giữ hành trình học tập của mình, mà còn là nơi mình mong muốn kết nối với những người có cùng đam mê để cùng nhau phát triển.
+</p>
     </div>
   </div>
 
